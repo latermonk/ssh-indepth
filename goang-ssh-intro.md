@@ -18,7 +18,7 @@
 
 
 
-##  ##   dial 获取ssh client
+##   dial 获取ssh client
 ![0201](_image/0201.png)
 
 
